@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poojakj10
+- 👋 Hi, I’m Pooja
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 📫 How to reach me kjpooja.avs@gmail.com
